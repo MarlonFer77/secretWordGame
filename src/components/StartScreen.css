@@ -1,0 +1,137 @@
+.start h1 {
+    font-size: 3.5em;
+    animation: changeColorSecret 10s infinite;
+}
+
+.start p {
+    margin-bottom: 2em;
+    font-size: 20px;
+    color: #ecfa00;
+    animation: changeColor 5s infinite;
+}
+
+@keyframes changeColor {
+    0% {
+        color: #ecfa00;
+    }
+    10% {
+        color: #ecfa00;
+    }
+    15% {
+        color: red;
+    }
+    20% {
+        color: red;
+    }
+    25% {
+        color: #ecfa00;
+    }
+    30% {
+        color: #ecfa00;
+    }
+    35% {
+        color: green;
+    }
+    40% {
+        color: green;
+    }
+    45% {
+        color: #ecfa00;
+    }
+    50% {
+        color: #ecfa00;
+    }
+    55% {
+        color: black;
+    }
+    60% {
+        color: black;
+    }
+    65% {
+        color: #ecfa00;
+    }
+    70% {
+        color: #ecfa00;
+    }
+    75% {
+        color: brown;
+    }
+    80% {
+        color: brown;
+    }
+    85% {
+        color: #ecfa00;
+    }
+    90% {
+        color: #ecfa00;
+    }
+    95% {
+        color: white;
+    }
+    100% {
+        color: #ecfa00;
+    }
+}
+
+@keyframes changeColorSecret {
+    0% {
+        color: white;
+    }
+    10% {
+        color: blue;
+    }
+    15% {
+        color: blue;
+    }
+    20% {
+        color: white;
+    }
+    25% {
+        color: white;
+    }
+    30% {
+        color: blue;
+    }
+    35% {
+        color: blue;
+    }
+    40% {
+        color: white;
+    }
+    45% {
+        color: white;
+    }
+    50% {
+        color: blue;
+    }
+    55% {
+        color: blue;
+    }
+    60% {
+        color: white;
+    }
+    65% {
+        color: white;
+    }
+    70% {
+        color: blue;
+    }
+    75% {
+        color: blue;
+    }
+    80% {
+        color: white;
+    }
+    85% {
+        color: white;
+    }
+    90% {
+        color: blue;
+    }
+    95% {
+        color: blue;
+    }
+    100% {
+        color: white;
+    }
+}

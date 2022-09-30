@@ -1,0 +1,15 @@
+export const wordsList = {
+    carro: ["Motor", "Porta", "Capo", "Pneu", "Antena", "Farol", "Calota", "Volante"],
+    fruta: ["Banana", "Maca", "Pera", "Mamao", "Laranja", "Cupuacu", "Graviola", "Maracuja"],
+    corpo: ["Braco", "Perna", "Cerebro", "Pescoco", "Olhos", "Barriga", "Panturrilha", "Nadegas"],
+    computador: ["Mouse", "Teclado", "Monitor", "Gabinete", "Webcam", "Sistema", "Driver"],
+    jogos: ["Minecraft", "Roblox", "FallGuys", "Dama", "Xadrez", "Terraria", "PUBG", "FreeFire", "AmongUs"],
+    alimento: ["Arroz", "Feijao", "Carne", "Leite", "Farinha", "Tapioca", "Tomate", "Coentro"],
+    animais: ["Gato", "Cachorro", "Papagaio", "Pato", "Galinha", "Pinguim", "Tartaruga", "Cobra"],
+    anime: ["Naruto", "Bleach", "OnePiece", "DragonBall", "DeathNote", "Pokemon", "SwordArtOnline", "TokyoGhoul"],
+    esporte: ["Futebol", "Basquete", "Volei", "Handebol", "Natacao", "Atletismo", "Ciclismo", "Corrida"],
+    musica: ["Violao", "Guitarra", "Baixo", "Bateria", "Piano", "Saxofone", "Trompete", "Trombone"],
+    filme: ["HarryPotter", "StarWars", "SenhorDosAneis", "Vingadores", "Titanic", "Matrix", "Interestelar"],
+    serie: ["Friends", "BreakingBad", "GameOfThrones", "StrangerThings", "TheFlash", "Arrow"],
+    cidade: ["SaoPaulo", "RioDeJaneiro", "BeloHorizonte", "Curitiba", "Salvador", "Fortaleza", "Recife", "Brasilia"],
+  };

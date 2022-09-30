@@ -1,0 +1,73 @@
+h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+    animation: changeColor 5s infinite;
+}
+
+h2 {
+    animation: changeColor 5s infinite;
+}
+
+
+@keyframes changeColor {
+    0% {
+        color: #ecfa00;
+    }
+    10% {
+        color: #ecfa00;
+    }
+    15% {
+        color: blue;
+    }
+    20% {
+        color: blue;
+    }
+    25% {
+        color: #ecfa00;
+    }
+    30% {
+        color: #ecfa00;
+    }
+    35% {
+        color: blue;
+    }
+    40% {
+        color: blue;
+    }
+    45% {
+        color: #ecfa00;
+    }
+    50% {
+        color: #ecfa00;
+    }
+    55% {
+        color: blue;
+    }
+    60% {
+        color: blue;
+    }
+    65% {
+        color: #ecfa00;
+    }
+    70% {
+        color: #ecfa00;
+    }
+    75% {
+        color: blue;
+    }
+    80% {
+        color: blue;
+    }
+    85% {
+        color: #ecfa00;
+    }
+    90% {
+        color: #ecfa00;
+    }
+    95% {
+        color: blue;
+    }
+    100% {
+        color: #ecfa00;
+    }
+}
